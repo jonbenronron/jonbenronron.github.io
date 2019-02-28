@@ -5,7 +5,7 @@ Just started with my homepage project. Nothing too interesting going on here but
 
 ## Hello World!
 
-Here's a short **Hello World!** program written in [Python3](https://www.python.org/) for your enjoyment!
+Here's a short **Hello World!** program written in [Python](https://www.python.org/) for your enjoyment!
 
 ```python
 
