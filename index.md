@@ -5,7 +5,7 @@ Just started with my homepage project. Nothing too interesting going on here but
 
 ## Hello World!
 
-Here's a short **Hello World!** program written in [Python3](https://www.python.org/) for your enjoyment! :snake:
+Here's a short **Hello World!** program written in [Python3](https://www.python.org/) for your enjoyment!
 
 ```python3
 
@@ -15,10 +15,13 @@ print('Hello World!')
 
 ### Afterwords
 
-Was that it?!? Yes it was! Everything is runtime code in Python. Isn't it wonderful?!? :raised_hands:
-No wonder it has become my current favourite programming language. Very beginner friendly and easy to learn but still a powerfull tool if you master it! :godmode:
+Was that it?!? Yes it was! Everything is runtime code in Python. Isn't it wonderful?!?
+No wonder it has become my current favourite programming language. Very beginner friendly and easy to learn but still a powerfull tool if you master it!
+
+## Work in progress
 
 *Keeping the next lines here as an cheat sheet for myself:*
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
