@@ -1,31 +1,24 @@
-## Welcome to GitHub Pages
+## News:
 
-You can use the [editor on GitHub](https://github.com/jonbenronron/jonbenronron.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 28Feb2019:
+Just started with my homepage project. Nothing too interesting going on here but the project will live on.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hello World!
 
-### Markdown
+Here's a short **Hello World!** program written in [Python3](https://www.python.org/) for your enjoyment! :snake:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```python3
 
-```markdown
-Syntax highlighted code block
+print('Hello World!)
 
-# Header 1
-## Header 2
-### Header 3
+``` 
 
-- Bulleted
-- List
+### Afterwords
 
-1. Numbered
-2. List
+Was that it?!? Yes it was! Everything is runtime code in Python. Isn't it wonderful?!? :raised_hands:
+No wonder it has become my current favourite programming language. Very beginner friendly and easy to learn but still a powerfull tool if you master it! :godmode:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+*Keeping the next lines here as an cheat sheet for myself:*
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
