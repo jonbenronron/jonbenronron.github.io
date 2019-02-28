@@ -20,7 +20,7 @@ No wonder it has become my current favourite programming language. Very beginner
 
 ## Work in progress
 
-*Keeping the next lines here as a cheat sheet for myself:*
+*Keeping next lines here as a cheat sheet for myself:*
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
