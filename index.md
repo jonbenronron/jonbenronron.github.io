@@ -7,7 +7,7 @@ Just started with my homepage project. Nothing too interesting going on here but
 
 Here's a short **Hello World!** program written in [Python3](https://www.python.org/) for your enjoyment!
 
-```python3
+```python
 
 print('Hello World!')
 
