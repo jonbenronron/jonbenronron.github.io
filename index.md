@@ -6,6 +6,9 @@ Lately I've been working on a small GUI (general user interface) for a simple pd
 ### 28Feb2019:
 Just started with my homepage project. Nothing too interesting going on here but the project will live on.
 
+## Bio:
+My name is Roni Keuru and I am a student of pure mathematics, computer science and statistics at Turku University in Finland.
+
 ## Hello World!
 
 Here's a short **Hello World!** program written in [Python](https://www.python.org/) for your enjoyment!
