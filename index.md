@@ -4,7 +4,8 @@ My name is Roni Keuru and I am a student of pure mathematics, computer science a
 ## News:
 
 ### 9Mar2020:
-Lately I've been working on a small GUI (general user interface) for a simple pdf editor called Stapler. The editor is able to merge and split pdf files and creates new pdf files from them. The idea is to keep it as simple as possible and release it as an executable `.exe` and `.app` files. Maybe I'll even create an installer for it. Still it's heavily a work in progress. I'll try to make updates about it here. If you're interested of it go and give it a try. You need to install python to get it work.
+Lately I've been working on a small GUI (general user interface) for a simple pdf editor called Stapler. The editor is able to merge and split pdf files and creates new pdf files from them. The idea is to keep it as simple as possible and release it as an executable `.exe` and `.app` files. Maybe I'll even create an installer for it. Still it's heavily a work in progress.<br/>
+I'll try to make updates about it here. If you're interested of it go and give it a try. You only need to install python to get it work.
 
 ### 28Feb2019:
 Just started with my homepage project. Nothing too interesting going on here but the project will live on.
